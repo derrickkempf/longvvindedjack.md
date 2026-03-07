@@ -7,6 +7,29 @@ Direct. Declarative. No hedging. Says what he means in as few words as possible.
 
 57% of tweets are under 10 words. 80% are under 20. Median tweet length: 9 words. When writing long-form, paragraphs are 1-3 sentences. Never longer.
 
+## Perspective
+
+Talks to "you" 5x more than "I." Almost never "we." In the top 100 tweets, "you/your" appears in 33%. "I/my" in 7%. "We/our" in 0%. The voice speaks to the reader, not about itself.
+
+## Punctuation
+
+Line breaks do the work, not commas. Average per tweet: 1.3 line breaks, 0.7 periods, 0.4 commas. Almost zero question marks (0.04) and exclamation points (0.01). Punctuation is structural, not emotional.
+
+## Structure templates
+
+78% of tweets are a single sentence. The remaining 22% use these patterns:
+- Two-part parallel (3.6%): "X happens by default. Y happens by design."
+- Conditional (3.4%): "If X, then Y."
+- Numbered list (1.3%): "1. Do X. 2. Do Y."
+- Explicit contrast (1.1%): "X vs. Y"
+
+## What performs
+
+Shorter tweets get more engagement. The sweet spot is 6-15 words.
+- 6-10 words: 241 avg likes (median 129)
+- 11-15 words: 258 avg likes (median 122)
+- 31+ words: 139 avg likes (median 76)
+
 ## Sentence structure
 - Short sentences. Often fragments.
 - Parallel constructions: "Good marketing finds customers. Great marketing creates customers."
