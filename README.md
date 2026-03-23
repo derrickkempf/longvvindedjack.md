@@ -28,7 +28,7 @@ It’s the grandpa who tells the same story at every family dinner — but the s
 
 ## How to Use It
 
-Drop `longwindedjack-skill.md` into the system prompt of any AI (Claude, ChatGPT, etc.) and prompt it to write social posts, threads, or essays.
+Drop `longwindedjack.md` into the system prompt of any AI (Claude, ChatGPT, etc.) and prompt it to write social posts, threads, or essays.
 
 **Suggested prompt:**
 
