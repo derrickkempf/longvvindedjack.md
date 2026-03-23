@@ -1,127 +1,66 @@
-# jackbutcher.md
+# LongWindedJack
 
-50,000 tweets. One file. Every pattern extracted.
+A satirical system file.
 
-## What this is
+Based on [longvvindedjack.md](https://github.com/derrickkempf/longvvindedjack.md) — the reverse-engineered writing system built from 6 years and 50,796 tweets — this is the version where Jack simply cannot stop.
 
-6 years of writing. 50,796 tweets scanned. Filtered to the 13,962 that performed. Reverse-engineered into the rules, constraints, and word-level mechanics that made them work.
+-----
 
-Drop it into any AI and generate content in this voice.
+## What This Is
 
-## What's extracted
+The original file distilled Jack Butcher’s voice down to 9-word medians, contrast pairs, and compressed wisdom.
 
-```
-SOURCE
-  50,796 tweets scanned
-  13,962 indexed (RTs, replies, URL-only removed)
+This file takes that same voice and asks: what if he kept going?
 
-SHAPE
-  median length        9 words
-  under 10 words       57%
-  single sentence      78%
-  shorter = more likes  (258 avg at 6-10w, 139 at 31+w)
+Same insights. Same mechanics. Many, many more words about them.
 
-PERSPECTIVE
-  "you" vs "I"         30% vs 7%
-  "we"                 0%
+It’s the grandpa who tells the same story at every family dinner — but the story is actually good, and he knows it, and that’s exactly why he keeps telling it.
 
-PUNCTUATION
-  line breaks/tweet    1.3
-  periods/tweet        0.7
-  question marks       0.04
-  exclamation points   0.01
+-----
 
-STRUCTURE
-  observation/declaration  82% of openers
-  numbered list            6%
-  conditional "if"         4%
-  imperative verb          4%
+## Who It’s For
 
-6 RHETORICAL MOVES
-  contrast pairs       renting/owning, theory/practice
-  reframes             flip what you're doing into what you should be doing
-  math                 quantify abstract ideas (+2 vs x2)
-  uncomfortable truths say what people avoid saying
-  compressed wisdom    entire frameworks in two lines
-  deadpan              humor through understatement
+- Writers who want to generate long-form content in a voice that’s self-aware, deadpan, and a little bit funny about how seriously it takes itself
+- People who loved the original system file and want to see it run in reverse
+- Anyone who has ever written “build once, sell twice” and then written four paragraphs explaining what “once” means
 
-12 CONTRAST FRAMES
-  reframe              23%  "Overthinkers are underpaid."
-  parallel declaration 17%  "X does A. Y does B."
-  paradox              12%  "Customers that pay more, complain less."
-  conditional reveal   11%  "If X, [surprising Y]."
-  juxtaposed pair       7%  "distraction, focus" (no verb)
-  progression           7%  numbered list, each step escalates
-  explicit vs           6%  "renting vs. owning"
-  negation flip         4%  "No one cares... everyone cares..."
-  + 4 more rare frames (expectation subversion, labeled, chiastic, cyclical)
+-----
 
-11 WORD-LEVEL MECHANICS
-  alliterative contrast  same-letter opposites (complexity/clarity, default/design)
-  matched meter          couplets with equal syllable counts (9/9, 4/4)
-  chiasmus               A-B flips to B-A
-  circular loops         ending returns to beginning
-  internal rhyme         learn/earn, build/billed
-  negation flips         same words + "don't" inverts meaning
-  paradox                contradicts itself to reveal truth
-  monosyllabic endings   punchlines land on one-syllable words
-  lowercase as register  "thinking out loud" > "making a pronouncement"
-  drop the period        bare-word endings get ~20% more engagement
-  land on a noun         final word is a thing, not an action
+## How to Use It
 
-VERB MOOD
-  declarative  80%   asserts. the default.
-  imperative    9%   commands. "Build distribution."
-  conditional   9%   "if" setups. slightly outperforms imperatives.
-  interrogative 2%   rare but highest ceiling.
+Drop `longwindedjack-skill.md` into the system prompt of any AI (Claude, ChatGPT, etc.) and prompt it to write social posts, threads, or essays.
 
-CLOSING PATTERNS
-  lands on a noun, no period, declarative statement
-  punchline inversion ~10%  (short line after long setup)
+**Suggested prompt:**
 
-COLON AS PIVOT
-  17% of top tweets use a colon
-  +33% retweets vs non-colon tweets
-  both sides 2-4 words
+> Write a post about [topic] in this voice. Make it longer than it needs to be. Return to the main point at least twice. End with a punchline that isn’t obviously a punchline.
 
-10 CATEGORIES OF SILENCE
-  no self, no diary, no ask, no performance, no tribe
-  no complaint, no cliches, no own metrics, no pop culture, no news
+-----
 
-40+ BANNED WORDS
-  no synergy, no ecosystem, no stakeholders, no thought leadership
+## What Makes It Different From the Original
 
-10 REWRITE PAIRS
-  same idea, generic vs. Jack - teaches the compression by example
+|Original Jack             |LongWindedJack                                                     |
+|--------------------------|-------------------------------------------------------------------|
+|Median: 9 words           |Median: eventually                                                 |
+|78% single sentence       |Multiple sentences, often about the previous sentences             |
+|“I” appears 7%            |“I’ve said this before” appears significantly more                 |
+|Compressed wisdom         |Wisdom, decompressed, then recompressed, then explained            |
+|Deadpan understatement    |Deadpan overstatement                                              |
+|“The file isn’t the moat.”|“The file isn’t the moat. Also the sawdust. But mostly the person.”|
 
-29 REFERENCE TWEETS
-  highest performers, sorted by engagement
-```
+-----
 
-## How to use it
+## The Voice, In One Paragraph
 
-Paste `jackbutcher.md` into any AI conversation. Prompt as usual.
+Say the insight. Explain the insight. Restate the insight. Note that you’ve now said it three times. Add a dad joke that doesn’t announce itself as a dad joke. Return to the original insight as if arriving somewhere new. Close. Add one more thing.
 
-```
-[paste jackbutcher.md]
+-----
 
-Write a post about compounding.
-```
+## Credits
 
-The constraints do the work.
+- Original system: [longvvindedjack.md](https://github.com/derrickkempf/longvvindedjack.md) by [@derrickkempf](https://github.com/derrickkempf)
+- Inspiration: Jack Butcher / [Visualize Value](https://www.visualizevalue.com)
+- This file: the longer version nobody asked for, which is itself a very Jack Butcher thing to ship
 
-## Why open source
+-----
 
-The file isn't the moat. The person is.
-
-## Links
-
-- [Announcement](https://x.com/jackbutcher/status/2030342223515079104)
-- [@jackbutcher](https://x.com/jackbutcher)
-
-## More from Visualize Value
-
-- [The Permissionless Apprentice](https://visualizevalue.com/products/the-permissionless-apprentice)
-- [Build Once, Sell Twice](https://visualizevalue.com/products/build-once-sell-twice-the-productization-playbook)
-- [How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)
-- [Visuals](https://visualizevalue.com/visuals)
+*“The file isn’t the moat. The person is. Also the sawdust. But mostly the person.”*
